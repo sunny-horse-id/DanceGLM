@@ -1,0 +1,46 @@
+# basic requirements
+huggingface_hub>=0.19.4
+pillow>=10.1.0
+pyyaml>=6.0.1
+requests>=2.31.0
+ipykernel>=6.26.0
+ipython>=8.18.1
+jupyter_client>=8.6.0
+
+protobuf
+transformers
+tokenizers
+cpm_kernels
+
+gradio
+sentencepiece
+sentence_transformers
+accelerate
+streamlit
+fastapi
+loguru
+mdtex2html
+latex2mathml
+jupyter_client
+
+# for openai demo
+openai
+zhipuai
+
+pydantic
+sse-starlette
+uvicorn
+timm
+tiktoken
+
+# for langchain demo
+
+langchain
+langchainhub
+arxiv
+yt-dlp
+wandb
+#for adapt old version
+matplotlib==3.4
+einops
+p_tqdm
