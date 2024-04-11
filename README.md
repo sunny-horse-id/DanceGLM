@@ -18,3 +18,24 @@ pip install accelerate
 accelerate config
 pip install -r requirements.txt
 ```
+
+## 依赖说明
+```bash
+运行环境：
+Ubuntu 22.04
+
+vue依赖：
+下载链接：https://pan.baidu.com/s/1Zpn1HTkitNg47b5DtqziKA?pwd=zdax 
+使用方法：下载解压后整体放到vue/frontend文件夹下
+
+SWAY.checkpoint依赖：
+下载链接：https://pan.baidu.com/s/1t5hRfg60sns0RfCaGmH7AQ?pwd=cy8z 
+使用方法：下载后放到SWAY文件夹下
+```
+
+## 引用
+```bash
+更多详细内容请访问：
+https://github.com/THUDM/ChatGLM3
+https://github.com/Stanford-TML/EDGE
+```
