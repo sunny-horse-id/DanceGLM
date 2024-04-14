@@ -1,3 +1,4 @@
+![Demo webpage](assets/DanceGLM.svg)
 ![Demo webpage](assets/img.png)
 ![Demo webpage](assets/img_1.png)
 ![Demo webpage](assets/dance.png)
