@@ -39,4 +39,5 @@ SWAY.checkpoint依赖：
 更多详细内容请访问：
 https://github.com/THUDM/ChatGLM3
 https://github.com/Stanford-TML/EDGE
+https://google.github.io/aistplusplus_dataset
 ```
