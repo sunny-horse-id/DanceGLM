@@ -1,7 +1,8 @@
-![Demo webpage](assets/DanceGLM.svg)
-![Demo webpage](assets/img.png)
-![Demo webpage](assets/img_1.png)
-![Demo webpage](assets/dance.png)
+<img src="assets/DanceGLM.svg" alt="Demo webpage" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="assets/img.png" alt="Demo webpage" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="assets/img_1.png" alt="Demo webpage" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="assets/dance.png" alt="Demo webpage" style="display: block; margin-left: auto; margin-right: auto;">
+
 ## 安装
 
 我们建议通过 [Conda](https://docs.conda.io/en/latest/) 进行环境管理。
