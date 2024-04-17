@@ -1,3 +1,8 @@
+<div align="center">
+  <h1>基于AIGC的智慧教育舞蹈大模型DanceGLM</h1>
+</div>
+
+
 <img src="assets/DanceGLM.svg" alt="Demo webpage" style="display: block; margin-left: auto; margin-right: auto;">
 <img src="assets/img.png" alt="Demo webpage" style="display: block; margin-left: auto; margin-right: auto;">
 <img src="assets/img_1.png" alt="Demo webpage" style="display: block; margin-left: auto; margin-right: auto;">
