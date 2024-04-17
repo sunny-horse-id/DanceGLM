@@ -38,6 +38,9 @@ vue依赖：
 SWAY.checkpoint依赖：
 下载链接：https://pan.baidu.com/s/1t5hRfg60sns0RfCaGmH7AQ?pwd=cy8z 
 使用方法：下载后放到SWAY文件夹下
+
+权重文件依赖：
+下载链接：https://huggingface.co/KirkOfficial/DanceGLM
 ```
 
 ## 引用
